@@ -4,6 +4,8 @@
 In today’s world, child safety solutions often fall short - smartphones introduce risks like excessive screen time, online exposure, and dependency. Parents are left feeling unsure and vulnerable, searching for a better way to keep their kids safe.
 That’s why we created SafePath, a smart wearable designed to keep families connected and secure without compromising independence. By combining real-time tracking with customisable SafeZones and no screen reliance for children, SafePath offers a safer, smarter solution for parents and kids.
 
+---
+
 ## **Why SafePath?**
 In today’s world, ensuring your child’s safety without compromising their independence is more important than ever. With the risks of excessive screen time, online exposure, and dependency on smartphones, parents are searching for a smarter, safer alternative.
 That’s why we created SafePath, the wearable safety solution that redefines how families stay connected:
@@ -12,6 +14,8 @@ That’s why we created SafePath, the wearable safety solution that redefines ho
 •	Instant Alerts: Receive notifications if your child strays from their route or enters an unsafe area.
 •	Child-Centered Design: A discreet, stylish wearable that kids love, while parents stay informed.
 With SafePath, managing your child’s safety is simple, secure, and free from unnecessary digital clutter. It’s time to upgrade how we keep our kids safe.
+
+---
 
 ## **Features**
 ### _**SafePath Wearable Features:**_
@@ -49,6 +53,8 @@ SafePath is a transformative solution for child and caregiver safety.
 •	Revolutionise child safety for the digital age: By combining cutting-edge wearable technology and smart app features, SafePath empowers families to stay connected and secure without over-relying on smartphones.
 •	Foster independence while ensuring protection: SafePath will continue to evolve, ensuring kids can grow and explore freely, while giving parents the confidence to know their children are safe.
 •	Create a global community of safer, smarter families: We aim to expand SafePath’s impact worldwide, ensuring that families, caregivers, and vulnerable individuals have access to intuitive, affordable, and effective safety solutions.
+
+---
 
 ## **Sustainability & Responsibility**
 We are committed to measurable impact:
