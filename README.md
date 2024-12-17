@@ -9,10 +9,10 @@ That’s why we created SafePath, a smart wearable designed to keep families con
 ## **Why SafePath?**
 In today’s world, ensuring your child’s safety without compromising their independence is more important than ever. With the risks of excessive screen time, online exposure, and dependency on smartphones, parents are searching for a smarter, safer alternative.
 That’s why we created SafePath, the wearable safety solution that redefines how families stay connected:
-•	Customizable SafeZones: Set virtual boundaries around specific locations like school or the park, ensuring your child is always within a safe space.
-•	Real-Time Tracking: Monitor your child’s location without the distractions of a smartphone, providing both freedom and security.
-•	Instant Alerts: Receive notifications if your child strays from their route or enters an unsafe area.
-•	Child-Centered Design: A discreet, stylish wearable that kids love, while parents stay informed.
+- Customizable SafeZones: Set virtual boundaries around specific locations like school or the park, ensuring your child is always within a safe space.
+- Real-Time Tracking: Monitor your child’s location without the distractions of a smartphone, providing both freedom and security.
+- Instant Alerts: Receive notifications if your child strays from their route or enters an unsafe area.
+- Child-Centered Design: A discreet, stylish wearable that kids love, while parents stay informed.
 With SafePath, managing your child’s safety is simple, secure, and free from unnecessary digital clutter. It’s time to upgrade how we keep our kids safe.
 
 ---
