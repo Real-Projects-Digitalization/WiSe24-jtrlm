@@ -45,7 +45,7 @@ SafePath is a transformative solution for child and caregiver safety.
 
 ---
 
-## **Sustainability & Responsibility**
+## **Environmental Impact & Ethical Commitment**
 We are committed to measurable impact:
 - User Growth Metrics: Monitor the number of SafePath users, with targeted increases in adoption through partnerships with schools, healthcare organisations, and retail channels.
 - Safety Insights: Track the number of SafeZones set, real-time alerts activated, and successful interventions, ensuring families can easily manage their children’s safety.
