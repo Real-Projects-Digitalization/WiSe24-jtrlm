@@ -37,7 +37,7 @@ With SafePath, managing your child’s safety is simple, secure, and free from u
 
 ---
    
-##**Vision for the Future**
+## **Vision for the Future**
 SafePath is a transformative solution for child and caregiver safety.
 •	Revolutionise child safety for the digital age: By combining cutting-edge wearable technology and smart app features, SafePath empowers families to stay connected and secure without over-relying on smartphones.
 •	Foster independence while ensuring protection: SafePath will continue to evolve, ensuring kids can grow and explore freely, while giving parents the confidence to know their children are safe.
