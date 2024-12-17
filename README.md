@@ -39,15 +39,15 @@ With SafePath, managing your child’s safety is simple, secure, and free from u
    
 ## **Vision for the Future**
 SafePath is a transformative solution for child and caregiver safety.
-•	Revolutionise child safety for the digital age: By combining cutting-edge wearable technology and smart app features, SafePath empowers families to stay connected and secure without over-relying on smartphones.
-•	Foster independence while ensuring protection: SafePath will continue to evolve, ensuring kids can grow and explore freely, while giving parents the confidence to know their children are safe.
-•	Create a global community of safer, smarter families: We aim to expand SafePath’s impact worldwide, ensuring that families, caregivers, and vulnerable individuals have access to intuitive, affordable, and effective safety solutions.
+- Revolutionise child safety for the digital age: By combining cutting-edge wearable technology and smart app features, SafePath empowers families to stay connected and secure without over-relying on smartphones.
+- Foster independence while ensuring protection: SafePath will continue to evolve, ensuring kids can grow and explore freely, while giving parents the confidence to know their children are safe.
+- Create a global community of safer, smarter families: We aim to expand SafePath’s impact worldwide, ensuring that families, caregivers, and vulnerable individuals have access to intuitive, affordable, and effective safety solutions.
 
 ---
 
 ## **Sustainability & Responsibility**
 We are committed to measurable impact:
-•	User Growth Metrics: Monitor the number of SafePath users, with targeted increases in adoption through partnerships with schools, healthcare organisations, and retail channels.
-•	Safety Insights: Track the number of SafeZones set, real-time alerts activated, and successful interventions, ensuring families can easily manage their children’s safety.
-•	Environmental Impact: Reduce electronic waste by focusing on sustainable, long-lasting, and recyclable materials for our wearables, with an ongoing commitment to minimising our carbon footprint.
-•	Security & Privacy: Ensure that every SafePath device and app interaction prioritises user privacy, with robust encryption and data protection practices in place.
+- User Growth Metrics: Monitor the number of SafePath users, with targeted increases in adoption through partnerships with schools, healthcare organisations, and retail channels.
+- Safety Insights: Track the number of SafeZones set, real-time alerts activated, and successful interventions, ensuring families can easily manage their children’s safety.
+- Environmental Impact: Reduce electronic waste by focusing on sustainable, long-lasting, and recyclable materials for our wearables, with an ongoing commitment to minimising our carbon footprint.
+- Security & Privacy: Ensure that every SafePath device and app interaction prioritises user privacy, with robust encryption and data protection practices in place.
