@@ -4,7 +4,7 @@
 In today’s world, child safety solutions often fall short - smartphones introduce risks like excessive screen time, online exposure, and dependency. Parents are left feeling unsure and vulnerable, searching for a better way to keep their kids safe.
 That’s why we created SafePath, a smart wearable designed to keep families connected and secure without compromising independence. By combining real-time tracking with customisable SafeZones and no screen reliance for children, SafePath offers a safer, smarter solution for parents and kids.
 
-**Why SafePath?**
+## **Why SafePath?**
 In today’s world, ensuring your child’s safety without compromising their independence is more important than ever. With the risks of excessive screen time, online exposure, and dependency on smartphones, parents are searching for a smarter, safer alternative.
 That’s why we created SafePath, the wearable safety solution that redefines how families stay connected:
 •	Customizable SafeZones: Set virtual boundaries around specific locations like school or the park, ensuring your child is always within a safe space.
@@ -13,7 +13,7 @@ That’s why we created SafePath, the wearable safety solution that redefines ho
 •	Child-Centered Design: A discreet, stylish wearable that kids love, while parents stay informed.
 With SafePath, managing your child’s safety is simple, secure, and free from unnecessary digital clutter. It’s time to upgrade how we keep our kids safe.
 
-**Features**
+### **Features**
 _**SafePath Wearable Features:**_
 1.	Compact GPS Tracking:
 o	Uses the MicroHornet GPS, one of the smallest trackers at just 10 x 10 x 5.8 mm, for precise real-time location tracking.
