@@ -1,3 +1,4 @@
+![SafePath](https://github.com/user-attachments/assets/2bb48af8-91d7-420f-b323-5e77498b2abf)
 
 # **SafePath – _Explore Freely, Stay Connected_**
 In today’s world, child safety solutions often fall short - smartphones introduce risks like excessive screen time, online exposure, and dependency. Parents are left feeling unsure and vulnerable, searching for a better way to keep their kids safe.
