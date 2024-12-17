@@ -13,8 +13,8 @@ That’s why we created SafePath, the wearable safety solution that redefines ho
 •	Child-Centered Design: A discreet, stylish wearable that kids love, while parents stay informed.
 With SafePath, managing your child’s safety is simple, secure, and free from unnecessary digital clutter. It’s time to upgrade how we keep our kids safe.
 
-### **Features**
-_**SafePath Wearable Features:**_
+## **Features**
+### _**SafePath Wearable Features:**_
 1.	Compact GPS Tracking:
 o	Uses the MicroHornet GPS, one of the smallest trackers at just 10 x 10 x 5.8 mm, for precise real-time location tracking.
 2.	Customisable Design:
@@ -29,7 +29,7 @@ o	Provides notifications when the child steps outside designated SafeZones, such
 6.	Comfortable Wear:
 o	Lightweight and designed to be worn comfortably throughout the day, blending seamlessly into a child’s daily life.
 
-_**SafePath App Features:**_
+### _**SafePath App Features:**_
 1.	Route Mapping & SafeZones:
 o	Parents can set routes and define virtual SafeZones around locations (e.g., home, school, park) for better tracking.
 2.	Real-Time Location Tracking:
@@ -50,7 +50,7 @@ SafePath is a transformative solution for child and caregiver safety.
 •	Foster independence while ensuring protection: SafePath will continue to evolve, ensuring kids can grow and explore freely, while giving parents the confidence to know their children are safe.
 •	Create a global community of safer, smarter families: We aim to expand SafePath’s impact worldwide, ensuring that families, caregivers, and vulnerable individuals have access to intuitive, affordable, and effective safety solutions.
 
-**Sustainability & Responsibility**
+## **Sustainability & Responsibility**
 We are committed to measurable impact:
 •	User Growth Metrics: Monitor the number of SafePath users, with targeted increases in adoption through partnerships with schools, healthcare organisations, and retail channels.
 •	Safety Insights: Track the number of SafeZones set, real-time alerts activated, and successful interventions, ensuring families can easily manage their children’s safety.
