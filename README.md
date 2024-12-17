@@ -12,9 +12,8 @@ That’s why we created SafePath, the wearable safety solution that redefines ho
 •	Instant Alerts: Receive notifications if your child strays from their route or enters an unsafe area.
 •	Child-Centered Design: A discreet, stylish wearable that kids love, while parents stay informed.
 With SafePath, managing your child’s safety is simple, secure, and free from unnecessary digital clutter. It’s time to upgrade how we keep our kids safe.
-__________________________________________________________________________________________________________________________________________
-**Features
-_SafePath Wearable Features:**_
+__________________________________________________________________________________________________________________________________________**Features**
+_**SafePath Wearable Features:**_
 1.	Compact GPS Tracking:
 o	Uses the MicroHornet GPS, one of the smallest trackers at just 10 x 10 x 5.8 mm, for precise real-time location tracking.
 2.	Customisable Design:
