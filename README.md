@@ -4,7 +4,7 @@
 In today’s world, child safety solutions often fall short - smartphones introduce risks like excessive screen time, online exposure, and dependency. Parents are left feeling unsure and vulnerable, searching for a better way to keep their kids safe.
 That’s why we created SafePath, a smart wearable designed to keep families connected and secure without compromising independence. By combining real-time tracking with customisable SafeZones and no screen reliance for children, SafePath offers a safer, smarter solution for parents and kids.
 
-
+---
 
 ## **Why SafePath?**
 In today’s world, ensuring your child’s safety without compromising their independence is more important than ever. With the risks of excessive screen time, online exposure, and dependency on smartphones, parents are searching for a smarter, safer alternative.
