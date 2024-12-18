@@ -63,23 +63,13 @@ We are committed to measurable impact:
 
 ---
 
-## 💻 **Technology Stack**
-- **Hardware:** MicroHornet GPS, Omni IP67 microphone.
-- **Backend:** Node.js, Express.js
-- **Frontend:** React Native (for cross-platform app development)
-- **Database:** MongoDB
-- **Cloud Services:** AWS for real-time data tracking and secure storage
-- **Version Control:** GitHub
-
----
-
-## 🤝 **Contributors**
-- **Rimsha Sajid – Manager:** Coordinates the project, oversees timelines, and ensures smooth team collaboration.
-- **Jon Ander Finez – Techie:** Leads the technical development of the wearable and app functionalities.
-- **Tommi Karvonen – Analyst:** Manages research, data analysis, and validation of the solution.
-- **Leo Bielmeier – Communicator:** Handles stakeholder communication, presentations, and messaging strategies.
-- **Matias Örn – Creative:** Drives the design, branding, and user experience of SafePath.
-
+## 🤝 **Our Team**
+- **Rimsha Sajid** – roject Manager 
+- **Jon Ander Finez** – Technical Lead
+- **Tommi Karvonen** – Data Analyst 
+- **Leo Bielmeier** – Communications Strategist 
+- **Matias Örn** – Creative Designer
+  
 ---
 
 ### _SafePath: Redefining safety, empowering independence._
