@@ -51,3 +51,13 @@ We are committed to measurable impact:
 - Safety Insights: Track the number of SafeZones set, real-time alerts activated, and successful interventions, ensuring families can easily manage their children’s safety.
 - Environmental Impact: Reduce electronic waste by focusing on sustainable, long-lasting, and recyclable materials for our wearables, with an ongoing commitment to minimising our carbon footprint.
 - Security & Privacy: Ensure that every SafePath device and app interaction prioritises user privacy, with robust encryption and data protection practices in place.
+
+---
+
+## **Technology Stack**
+- **Hardware:** MicroHornet GPS, Omni IP67 microphone.
+- **Backend:** Node.js, Express.js
+- **Frontend:** React Native (for cross-platform app development)
+- **Database:** MongoDB
+- **Cloud Services:** AWS for real-time data tracking and secure storage
+- **Version Control:** GitHub
