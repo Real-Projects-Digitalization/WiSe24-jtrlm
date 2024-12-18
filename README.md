@@ -6,7 +6,7 @@ That’s why we created SafePath, a smart wearable designed to keep families con
 
 ---
 
-## **Why SafePath?**
+## 🚸 **Why SafePath?**
 In today’s world, ensuring your child’s safety without compromising their independence is more important than ever. With the risks of excessive screen time, online exposure, and dependency on smartphones, parents are searching for a smarter, safer alternative.
 That’s why we created SafePath, the wearable safety solution that redefines how families stay connected:
 - **Customisable SafeZones**: Set virtual boundaries around specific locations like school or the park, ensuring your child is always within a safe space.
@@ -17,7 +17,7 @@ With SafePath, managing your child’s safety is simple, secure, and free from u
 
 ---
 
-## **Features**
+## ✨ **Features**
 ### _**SafePath Wearable Features:**_
 1.	Compact GPS Tracking: Uses the MicroHornet GPS, one of the smallest trackers at just 10 x 10 x 5.8 mm, for precise real-time location tracking.
 2.	Customisable Design: Sleek, child-friendly oval head design with interchangeable bands in various colours to match preferences. Personalised options for engravings or playful designs on bracelet heads.
@@ -37,7 +37,7 @@ With SafePath, managing your child’s safety is simple, secure, and free from u
 
 ---
 
-## **How to Use SafePath**
+## 🛠️ **How to Use SafePath**
 - Set up the SafePath wearable and connect it to the app.
 - Create routes and SafeZones via the app interface.
 - Monitor live tracking, receive alerts, and access audio snippets when necessary.
@@ -45,7 +45,7 @@ With SafePath, managing your child’s safety is simple, secure, and free from u
 
 ---
    
-## **Future Plans**
+## 🌟 **Future Plans**
 
 SafePath is committed to transforming child and caregiver safety through innovation and accessibility.
 
@@ -55,7 +55,7 @@ SafePath is committed to transforming child and caregiver safety through innovat
 
 ---
 
-## **Environmental Impact & Ethical Commitment**
+## 🌍 **Environmental Impact & Ethical Commitment**
 We are committed to measurable impact:
 - User Growth Metrics: Monitor the number of SafePath users, with targeted increases in adoption through partnerships with schools, healthcare organisations, and retail channels.
 - Safety Insights: Track the number of SafeZones set, real-time alerts activated, and successful interventions, ensuring families can easily manage their children’s safety.
@@ -64,7 +64,7 @@ We are committed to measurable impact:
 
 ---
 
-## **Technology Stack**
+## 💻 **Technology Stack**
 - **Hardware:** MicroHornet GPS, Omni IP67 microphone.
 - **Backend:** Node.js, Express.js
 - **Frontend:** React Native (for cross-platform app development)
@@ -74,7 +74,7 @@ We are committed to measurable impact:
 
 ---
 
-## **Contributors**
+## 🤝 **Contributors**
 - **Rimsha Sajid – Manager:** Coordinates the project, oversees timelines, and ensures smooth team collaboration.
 - **Jon Ander Finez – Techie:** Leads the technical development of the wearable and app functionalities.
 - **Tommi Karvonen – Analyst:** Manages research, data analysis, and validation of the solution.
