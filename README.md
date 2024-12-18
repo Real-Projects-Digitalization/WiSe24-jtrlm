@@ -27,12 +27,12 @@ With SafePath, managing your child’s safety is simple, secure, and free from u
 6. Comfortable Wear: Lightweight and designed to be worn comfortably throughout the day, blending seamlessly into a child’s daily life.
 
 ### _**SafePath App Features:**_
-**1**.	**Route Mapping & SafeZones:** Parents can set routes and define virtual SafeZones around locations (e.g., home, school, park) for better tracking.
-**2.	Real-Time Location Tracking:** Offers real-time tracking of the child's location, allowing parents to monitor their child’s movements without constant checking.
-**3.	Instant Alerts:** Sends immediate notifications if the child strays from the route or leaves a designated SafeZone.
-**4.	Audio Monitoring:** Optional audio snippets provide context if the child enters a flagged area, ensuring parents understand the situation without infringing on privacy.
-**5.	User-Friendly Interface:** Simple and intuitive interface for parents to quickly set routes, review alerts, and manage settings.
-**6.	Multi-Device Access:** Family members can access the app on multiple devices, ensuring everyone involved in the child’s safety is informed.
+1. Route Mapping & SafeZones: Parents can set routes and define virtual SafeZones around locations (e.g., home, school, park) for better tracking.
+2.	Real-Time Location Tracking: Offers real-time tracking of the child's location, allowing parents to monitor their child’s movements without constant checking.
+3.	Instant Alerts: Sends immediate notifications if the child strays from the route or leaves a designated SafeZone.
+4.	Audio Monitoring: Optional audio snippets provide context if the child enters a flagged area, ensuring parents understand the situation without infringing on privacy.
+5.	User-Friendly Interface: Simple and intuitive interface for parents to quickly set routes, review alerts, and manage settings.
+6.	Multi-Device Access: Family members can access the app on multiple devices, ensuring everyone involved in the child’s safety is informed.
 
 ---
 
