@@ -64,7 +64,7 @@ We are committed to measurable impact:
 ---
 
 ## 🤝 **Our Team**
-- **Rimsha Sajid** – roject Manager 
+- **Rimsha Sajid** – Project Manager 
 - **Jon Ander Finez** – Technical Lead
 - **Tommi Karvonen** – Data Analyst 
 - **Leo Bielmeier** – Communications Strategist 
