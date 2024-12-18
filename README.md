@@ -19,12 +19,12 @@ With SafePath, managing your child’s safety is simple, secure, and free from u
 
 ## ✨ **Features**
 ### _**SafePath Wearable Features:**_
-**1.**	**Compact GPS Tracking:** Uses the MicroHornet GPS, one of the smallest trackers at just 10 x 10 x 5.8 mm, for precise real-time location tracking.
-**2.**	**Customisable Design:** Sleek, child-friendly oval head design with interchangeable bands in various colours to match preferences. Personalised options for engravings or playful designs on bracelet heads.
-**3.**	**Water-Resistant:** Equipped with the Micrófono Omni IP67, making it durable and water-resistant, perfect for daily wear.
-**4.**	**Long Battery Life:** Designed for extended use, ensuring the device lasts through the child’s daily activities.
-**5**.	**SafeZone Alerts:** Provides notifications when the child steps outside designated SafeZones, such as school routes, parks, or home.
-**6.**	**Comfortable Wear:** Lightweight and designed to be worn comfortably throughout the day, blending seamlessly into a child’s daily life.
+1. Compact GPS Tracking: Uses the MicroHornet GPS, one of the smallest trackers at just 10 x 10 x 5.8 mm, for precise real-time location tracking.
+2. Customisable Design: Sleek, child-friendly oval head design with interchangeable bands in various colours to match preferences. Personalised options for engravings or playful designs on bracelet heads.
+3. Water-Resistant: Equipped with the Micrófono Omni IP67, making it durable and water-resistant, perfect for daily wear.
+4. Long Battery Life: Designed for extended use, ensuring the device lasts through the child’s daily activities.
+5.	SafeZone Alerts: Provides notifications when the child steps outside designated SafeZones, such as school routes, parks, or home.
+6. Comfortable Wear: Lightweight and designed to be worn comfortably throughout the day, blending seamlessly into a child’s daily life.
 
 ### _**SafePath App Features:**_
 **1**.	**Route Mapping & SafeZones:** Parents can set routes and define virtual SafeZones around locations (e.g., home, school, park) for better tracking.
