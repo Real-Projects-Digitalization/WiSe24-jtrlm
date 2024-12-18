@@ -36,6 +36,14 @@ With SafePath, managing your child’s safety is simple, secure, and free from u
 7.	Multi-Device Access: Family members can access the app on multiple devices, ensuring everyone involved in the child’s safety is informed.
 
 ---
+
+## **How to Use SafePath**
+- Set up the SafePath wearable and connect it to the app.
+- Create routes and SafeZones via the app interface.
+- Monitor live tracking, receive alerts, and access audio snippets when necessary.
+- Personalise the wearable with colours and engravings to fit your child’s preferences.
+
+---
    
 ## **Future Plans**
 
@@ -66,14 +74,6 @@ We are committed to measurable impact:
 
 ---
 
-## **How to Use SafePath**
-- Set up the SafePath wearable and connect it to the app.
-- Create routes and SafeZones via the app interface.
-- Monitor live tracking, receive alerts, and access audio snippets when necessary.
-- Personalise the wearable with colours and engravings to fit your child’s preferences.
-
----
-
 ## **Contributors**
 - **Rimsha Sajid – Manager:** Coordinates the project, oversees timelines, and ensures smooth team collaboration.
 - **Jon Ander Finez – Techie:** Leads the technical development of the wearable and app functionalities.
@@ -83,4 +83,4 @@ We are committed to measurable impact:
 
 ---
 
-# _SafePath: Redefining safety, empowering independence._
+### _SafePath: Redefining safety, empowering independence._
