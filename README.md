@@ -37,11 +37,13 @@ With SafePath, managing your child’s safety is simple, secure, and free from u
 
 ---
    
-## **Vision for the Future**
-SafePath is a transformative solution for child and caregiver safety.
-- Revolutionise child safety for the digital age: By combining cutting-edge wearable technology and smart app features, SafePath empowers families to stay connected and secure without over-relying on smartphones.
-- Foster independence while ensuring protection: SafePath will continue to evolve, ensuring kids can grow and explore freely, while giving parents the confidence to know their children are safe.
-- Create a global community of safer, smarter families: We aim to expand SafePath’s impact worldwide, ensuring that families, caregivers, and vulnerable individuals have access to intuitive, affordable, and effective safety solutions.
+## **Future Plans**
+
+SafePath is committed to transforming child and caregiver safety through innovation and accessibility.
+
+- **Revolutionising Safety for the Digital Age:** By combining advanced wearable technology and smart app features, SafePath ensures families can stay connected and secure without relying heavily on smartphones.
+- **Fostering Independence with Protection:** SafePath will continue evolving to empower children to grow and explore freely while giving parents confidence in their safety.
+- **Expanding Global Impact:** Our goal is to create a worldwide community of safer, smarter families by making SafePath accessible, intuitive, and affordable for all, including caregivers and vulnerable individuals.
 
 ---
 
@@ -61,3 +63,24 @@ We are committed to measurable impact:
 - **Database:** MongoDB
 - **Cloud Services:** AWS for real-time data tracking and secure storage
 - **Version Control:** GitHub
+
+---
+
+## **How to Use SafePath**
+- Set up the SafePath wearable and connect it to the app.
+- Create routes and SafeZones via the app interface.
+- Monitor live tracking, receive alerts, and access audio snippets when necessary.
+- Personalise the wearable with colours and engravings to fit your child’s preferences.
+
+---
+
+## **Contributors**
+- **Rimsha Sajid – Manager:** Coordinates the project, oversees timelines, and ensures smooth team collaboration.
+- **Jon Ander Finez – Techie:** Leads the technical development of the wearable and app functionalities.
+- **Tommi Karvonen – Analyst:** Manages research, data analysis, and validation of the solution.
+- **Leo Bielmeier – Communicator:** Handles stakeholder communication, presentations, and messaging strategies.
+- **Matias Örn – Creative:** Drives the design, branding, and user experience of SafePath.
+
+---
+
+# _SafePath: Redefining safety, empowering independence._
